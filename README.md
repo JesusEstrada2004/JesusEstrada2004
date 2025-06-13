@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 # 💫 About Me:
-Passionate developer who loves collaboration and teamwork. Always eager to learn more and improve my skills in Java and C#. If it compiles, don’t touch it... but if there’s a bug, I’ll hunt it down. Fan of clean code, problem-solving, and challenging projects. Open to new ideas and collaborations!"**
+👨‍💻 Software Engineering Technician with experience in web development (C# and Java), currently training as a data analyst (Python and SQL). Passionate about clean code, problem-solving, and teamwork. Always learning and looking for challenging projects.
+
+💬 Open to collaboration and professional growth in development and data-focused environments.
 
 
 ## 🌐 Socials:
